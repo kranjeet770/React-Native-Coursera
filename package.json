@@ -1,0 +1,25 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and node",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Ranjeet Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kranjeet770/React-Native-Coursera.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kranjeet770/React-Native-Coursera/issues"
+  },
+  "homepage": "https://github.com/kranjeet770/React-Native-Coursera#readme"
+}
